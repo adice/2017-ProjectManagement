@@ -39,7 +39,7 @@
       <td>https://github.com/qianxunlingbao/Alien</td>
     </tr>
     <tr>
-      <td>IMP6</td>
+      <td>IPM6</td>
       <td>薛超凡（组长）、刘明瑛、马云龙、王胜莹、冯聪、方晓伟</td>
       <td>https://github.com/xuecfan/IT-Project-Management</td>
     </tr>
