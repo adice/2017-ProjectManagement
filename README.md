@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td>java.lang.NullPointException</td>
-      <td>李和谦（组长）、孙建旺、杨飞宇、张帅华、景光赞、杨锡涛</td>
+      <td>李和谦（组长）、孙建旺、孙宇飞、张帅华、景光赞、杨锡涛</td>
       <td>https://github.com/LiHeQian6/Project-management-team</td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
       <td>https://github.com/2017zhaoxiaoxiao/Project-Manage</td>
     </tr>
     <tr>
-      <td>组织的小姐姐们</td>
+      <td>组长的小姐姐们</td>
       <td>闫文鑫（组长）、黄瑞如、吴雪瑶、刘梦圆、杨昕迪、张彤</td>
       <td>https://github.com/yanwenxin/ProjectManagement</td>
     </tr>
