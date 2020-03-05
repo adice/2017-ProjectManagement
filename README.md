@@ -6,7 +6,7 @@
     <tr>
       <th>序号 </th>
       <th>队名 </th>
-      <th>队内成员</th>
+      <th width="250">队内成员</th>
       <th>项目名</th>
       <th>仓库链接</th>
     </tr>
