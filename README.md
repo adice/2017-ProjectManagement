@@ -21,7 +21,7 @@
       <td>2</td>
       <td>诚朴园F4</td>
       <td>徐春阳（组长）、孟宜壕、冯家亨、侯雪鹏</td>
-      <td>待定</td>
+      <td>多鱼</td>
       <td>https://github.com/xcy999/ProjectManagement</td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@
       <td>16</td>
       <td>我们的组名呢?.jpg</td>
       <td>高予蜀（组长）、周弘、牛玉欣、孙童、高清鑫</td>
-      <td>待定</td>
+      <td>戏精漫游仙境</td>
       <td>https://github.com/gaoyushu/IT-Project-Management</td>
     </tr>
     <tr>
@@ -147,7 +147,7 @@
       <td>20</td>
       <td>Only One</td>
       <td>李子腾（组长）</td>
-      <td>项目名大学生兼职平台</td>
+      <td>大学生兼职平台</td>
       <td>https://github.com/lover4/Only-One</td>
     </tr>
   </table>
