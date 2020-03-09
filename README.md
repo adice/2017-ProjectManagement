@@ -6,7 +6,7 @@
     <tr>
       <th>序号 </th>
       <th>队名 </th>
-      <th width="250">队内成员</th>
+      <th>队内成员</th>
       <th>项目名</th>
       <th>仓库链接</th>
     </tr>
@@ -49,7 +49,7 @@
       <td>6</td>
       <td>Alien</td>
       <td>刘彬（组长）、薛宝祥、闫儒彪、邓敖、许凯</td>
-      <td>待定</td>
+      <td>Health</td>
       <td>https://github.com/qianxunlingbao/Alien</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@
       <td>11</td>
       <td>组长的小姐姐们</td>
       <td>闫文鑫（组长）、黄瑞如、吴雪瑶、刘梦圆、杨昕迪、张彤</td>
-      <td>上岸吧</td>
+      <td>握爪萌物</td>
       <td>https://github.com/yanwenxin/ProjectManagement</td>
     </tr>
     <tr>
@@ -105,14 +105,14 @@
       <td>14</td>
       <td>青年大学习</td>
       <td>粟慧军（组长）、赵晓宇、代天放、赵政、王佳成</td>
-      <td>待定</td>
+      <td>学习工具集</td>
       <td>https://github.com/suhuijun/SWM</td>
     </tr>
     <tr>
       <td>15</td>
       <td>eagleTeam</td>
       <td>李同（组长）、王天伟、张傲阳、徐航、吕学齐、霍学锐、李汉霄</td>
-      <td>待定</td>
+      <td>知了</td>
       <td>https://github.com/1403062814/eagleTeam</td>
     </tr>
     <tr>
@@ -133,7 +133,7 @@
       <td>18</td>
       <td>不会起名组</td>
       <td>董心（组长）、王陆宇、王梦、黄碧莲</td>
-      <td>云联直聘</td>
+      <td>Climbing</td>
       <td>https://github.com/DongXin9/Project-management</td>
     </tr>
     <tr>
