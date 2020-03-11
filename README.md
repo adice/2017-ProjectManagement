@@ -90,7 +90,7 @@
     <tr>
       <td>12</td>
       <td>ADG小组</td>
-      <td>刘万里（组长）、李啸琨、蔡子轩、安佳、林桃、周宣</td>
+      <td>蔡子轩（组长）、李啸昆、刘万里、安佳、林桃、周宣</td>
       <td>新闻头条</td>
       <td>https://github.com/wanliliuxiansen/Send-the-anchor-a-rocket</td>
     </tr>
