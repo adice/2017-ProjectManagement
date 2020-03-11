@@ -99,7 +99,7 @@
       <td>诸葛大力粉丝团</td>
       <td>邸祯策（组长）、邸凯扬、苏祺、周义青、刘佳豪、李帅、曹倩</td>
       <td>紧急资源储备分发系统</td>
-      <td>https://github.com/Levi9420/MyProject.git</td>
+      <td>https://github.com/Levi9420/Project.git</td>
     </tr>
     <tr>
       <td>14</td>
